@@ -1,4 +1,4 @@
-ANformation git
+formation git
 SALUT A TOUS
 bonjour
 
@@ -16,12 +16,18 @@ J'aime le jus d'ananas
 aurélien
 Salut les nouveaux, laissez mon git tranquille
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 9df1fc1ee38935bb74d1f9f2f3639c0fb9853d20
 
->>>>>>> af068876698f6b1451cd2fe1a637c6db3d39ecd0
 PENIS (elgifu)
 
-<<<<<<< HEAD
 AnarchoCommuniste !!!
+<<<<<<< HEAD
+
+Met les voiles au lieu de mettre le voile.
+>>>>>>> 9da4381c1cbfeea25d34d06a3c0d0ef75ded6178
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 etzt
@@ -47,5 +53,6 @@ j'ai les bonbons qui font des bonds !
 antoine
 =======
 >>>>>>> 25fec64386d5ae5e956434bba90c148345e6315a
+>>>>>>> 9df1fc1ee38935bb74d1f9f2f3639c0fb9853d20
 HUEHUEHUEHUE
 >>>>>>> af068876698f6b1451cd2fe1a637c6db3d39ecd0
